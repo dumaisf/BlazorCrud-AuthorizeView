@@ -1,0 +1,94 @@
+footer[b-gn3h9rfmq8] {
+    padding-top: 3.125rem;
+    padding-bottom: 4.375rem;
+    background-color: var(--dark-blue-color);
+    color: #e5eaef;
+    font-family: 'Raleway', sans-serif;
+    font-size: smaller;
+}
+
+    footer .links h5[b-gn3h9rfmq8] {
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+        font-weight: bold;
+    }
+
+    footer .links ul li a[b-gn3h9rfmq8] {
+        color: #ccd5e0;
+    }
+
+    footer .links i[b-gn3h9rfmq8] {
+        vertical-align: middle;
+        margin-right: 0.5rem;
+    }
+
+    footer .links ul[b-gn3h9rfmq8] {
+        margin-bottom: 1rem;
+    }
+
+    footer .links li[b-gn3h9rfmq8] {
+        margin-bottom: 0.8rem;
+    }
+
+    footer .links ul li a:hover[b-gn3h9rfmq8] {
+        color: #e5eaef;
+    }
+
+    footer .btn-floating[b-gn3h9rfmq8] {
+        -webkit-box-shadow: 0 0.3125rem 0.6875rem 0 rgba(0,0,0,.18), 0 0.25rem 0.94rem 0 rgba(0,0,0,.15);
+        box-shadow: 0 0.3125rem 0.6875rem 0 rgba(0,0,0,.18), 0 0.25rem 0.94rem 0 rgba(0,0,0,.15);
+        width: 2.938rem;
+        height: 2.938rem;
+        position: relative;
+        z-index: 1;
+        vertical-align: middle;
+        overflow: hidden;
+        -webkit-transition: all .2s ease-in-out;
+        -o-transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out;
+        margin: 0.5rem;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        padding: 0;
+        cursor: pointer;
+        background-color: #325a84;
+    }
+
+        footer .btn-floating i[b-gn3h9rfmq8] {
+            display: inline-block;
+            width: inherit;
+            text-align: center;
+            font-size: 1.25rem;
+            line-height: 2.938rem;
+        }
+
+            footer .btn-floating i:hover[b-gn3h9rfmq8] {
+                color: #fff;
+            }
+
+    footer .btn-fb:hover[b-gn3h9rfmq8] {
+        background-color: #3b5998;
+    }
+
+    footer .btn-tw:hover[b-gn3h9rfmq8] {
+        background-color: #55acee;
+    }
+
+    footer .btn-li:hover[b-gn3h9rfmq8] {
+        background-color: #0082ca;
+    }
+
+    footer .credits i[b-gn3h9rfmq8] {
+        font-size: 1.4rem;
+    }
+
+    footer .register-free[b-gn3h9rfmq8] {
+        font-family: var(--font-family-script);
+        font-size: 1.125rem;
+        margin: 1rem;
+    }
+
+    footer .ApplicationName[b-gn3h9rfmq8] {
+        font-family: var(--font-family-script);
+        font-size: 1.25rem;
+    }

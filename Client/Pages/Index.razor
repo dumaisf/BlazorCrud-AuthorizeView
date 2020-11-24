@@ -1,0 +1,16 @@
+﻿@page "/"
+
+<h1>Index page</h1>
+
+<AuthorizeView Roles="Administrator">
+    <Authorized>
+        <p>You are the administrator!</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>You are not the administrator!</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+<AuthorizeView Roles="Administrator">
+    <p>You are the administrator!</p>
+</AuthorizeView>

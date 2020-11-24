@@ -1,0 +1,42 @@
+#Home[b-8xfz1u8ioe] {
+    background-image: linear-gradient(rgba(0, 49, 102, 0.8), rgba(0, 49, 102, 0.8)), url(/images/CoffeeDesktop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 40.625rem;
+    position: relative;
+}
+
+.banner-info[b-8xfz1u8ioe] {
+    padding-top: 11.875rem;
+}
+
+.banner-logo img[b-8xfz1u8ioe] {
+    display: inline-block;
+    max-height: 8rem;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.banner-logo span[b-8xfz1u8ioe] {
+    font-family: var(--font-family-script);
+    color: white;
+    font-size: 2.4rem;
+}
+
+.banner-logo div[b-8xfz1u8ioe] {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.banner-text[b-8xfz1u8ioe] {
+    color: #fff;
+}
+
+    .banner-text h1[b-8xfz1u8ioe] {
+        font-family: 'Candal', sans-serif;
+        font-size: 2.18rem;
+        text-transform: uppercase;
+        padding-bottom: 1rem;
+    }
